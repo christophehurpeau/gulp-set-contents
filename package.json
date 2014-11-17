@@ -1,0 +1,19 @@
+{
+  "name": "gulp-set-contents",
+  "description": "Set contents for the files",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/christophehurpeau/gulp-set-contents",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:christophehurpeau/gulp-set-contents.git"
+  },
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  }
+}
